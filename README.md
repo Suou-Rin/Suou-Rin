@@ -2,7 +2,7 @@
 
 I'm Suou-Rin
 
-- 🔭 I’m currently working on 株式会社コジマプロダクション
+- 🔭 I’m currently working on コジマプロダクション株式会社
 - 🌱 I’m currently learning Chinese
 <!--
 **Suou-Rin/Suou-Rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
